@@ -1,5 +1,9 @@
 body{
     background-color: blue;
+<<<<<<< HEAD
     z-index: 0;
     font-family: 'Courier New', Courier, monospace;
+=======
+    height: 23px;
+>>>>>>> Feature5
 }
